@@ -1,6 +1,5 @@
 +++
 description = "Minha entrada no SplitGraph"
-draft = true
 featured_image = "/images/splitgraph.png"
 title = "SplitGraph"
 
