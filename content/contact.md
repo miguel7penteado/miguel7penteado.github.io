@@ -1,7 +1,7 @@
 ---
 title: Contato
 featured_image: images/notebook.jpg
-omit_header_text: true
+omit_header_text: false
 description: Entre em contato
 type: page
 menu:
