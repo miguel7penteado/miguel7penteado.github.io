@@ -1,11 +1,11 @@
 ---
-baseURL: http://example.org/
-languageCode: en-us
-title: Hugo Ananke Forestry Starter
+baseURL: http://miguelpenteado.com.br/
+languageCode: pt-br
+title: Blog do Miguel Penteado
 module:
   imports:
   - path: github.com/theNewDynamic/gohugo-theme-ananke
-DefaultContentLanguage: en
+DefaultContentLanguage: pt-br
 SectionPagesMenu: main
 Paginate: 3
 googleAnalytics: ''
