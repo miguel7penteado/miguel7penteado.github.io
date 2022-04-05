@@ -9,7 +9,7 @@ title = "Boston Open Data HUB"
 +++
 # Datasets no Boston Open Data Hub
 
-## O que é o Boston Open Data Hub
+
 
 [Analyze Boston](https://data.boston.gov) é o centro de dados aberto da cidade de Boston para encontrar fatos, números e mapas relacionados às nossas vidas dentro da cidade. Estamos trabalhando para tornar esta a plataforma de tecnologia padrão para apoiar a publicação de informações públicas da cidade, na forma de dados, e para tornar essas informações fáceis de encontrar, acessar e usar por um público amplo. Esta plataforma é gerenciada pela equipe de análise da cidade.
 
