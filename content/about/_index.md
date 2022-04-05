@@ -1,7 +1,7 @@
 ---
 title: Sobre Penteado, Miguel
 description: Engenheiro de Computação
-featured_image: ''
+featured_image: "/images/1517536002880.jpg"
 
 ---
 {{< figure src="/images/" title="" >}}
