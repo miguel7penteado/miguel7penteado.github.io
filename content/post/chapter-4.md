@@ -7,5 +7,9 @@ tags:
 title: FigShare
 
 ---
+# FigShare
+
+## O que é o FigShare
+[Figshare](https://knowledge.figshare.com/about) é um repositório onde os usuários podem disponibilizar todos os seus resultados de pesquisa de maneira citável, compartilhável e detectável.
 
 [Datasets no FigShare](https://figshare.com/authors/Miguel_Penteado/6666371)
