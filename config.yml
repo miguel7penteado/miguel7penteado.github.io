@@ -19,12 +19,12 @@ params:
   site_logo: ''
   description: Profile
   facebook: https://web.facebook.com/pages/n%C3%A3o-tenho/324280494315834
-  twitter: https://twitter.com/GoHugoIO
+  twitter: https://twitter.com/miguel_penteado
   instagram: ''
   youtube: ''
-  github: ''
-  gitlab: ''
-  linkedin: ''
+  github: https://github.com/miguel7penteado
+  gitlab: https://gitlab.com/miguel7penteado
+  linkedin: https://www.linkedin.com/in/miguel-penteado-760486a9
   mastodon: ''
   slack: ''
   stackoverflow: ''
