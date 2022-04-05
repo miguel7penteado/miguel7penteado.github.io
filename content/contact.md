@@ -27,4 +27,4 @@ Deixe sua mensagem
 </form>
 }}
 
-\[falecomigo@miguelpenteado.com.br\](mailto:falecomigo@miguelpenteado.com.br)
+[falecomigo@miguelpenteado.com.br](mailto:falecomigo@miguelpenteado.com.br)
