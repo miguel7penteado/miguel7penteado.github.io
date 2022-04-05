@@ -26,3 +26,5 @@ Deixe sua mensagem
 <input type="hidden" name="_cc" value="miguel7penteado@gmail.com" />
 </form>
 }}
+
+\[falecomigo@miguelpenteado.com.br\](mailto:falecomigo@miguelpenteado.com.br)
