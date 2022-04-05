@@ -1,5 +1,5 @@
 ---
-title: Sobre Penteado, Miguel
+title: Penteado, Miguel
 description: Entusiasta da Ciência de Dados
 featured_image: "/images/1517536002880.jpg"
 
