@@ -1,6 +1,6 @@
 ---
 title: Sobre Penteado, Miguel
-description: Engenheiro de Computação
+description: Entusiasta da Ciência de Dados
 featured_image: "/images/1517536002880.jpg"
 
 ---
