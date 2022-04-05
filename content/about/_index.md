@@ -4,7 +4,7 @@ description: Engenheiro de Computação
 featured_image: "/images/1517536002880.jpg"
 
 ---
-{{< figure src="/images/" title="" >}}
+{{< figure src="/images/1517536002880.jpg" title="Penteado, Miguel" >}}
 
 ## Dados acadêmicos
 
