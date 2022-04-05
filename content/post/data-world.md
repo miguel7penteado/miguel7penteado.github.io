@@ -2,7 +2,6 @@
 date = 2022-04-05T02:40:04Z
 description = "Meu perfil de datasets acadêmicos no Data World"
 disable_share = false
-draft = true
 featured_image = "/images/horizontal-logo-dataworld-1.png"
 tags = ["dataworld"]
 title = "Data World"
