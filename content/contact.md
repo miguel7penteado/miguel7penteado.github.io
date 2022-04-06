@@ -9,10 +9,9 @@ menu:
     weight: 1
 
 ---
-Deixe sua mensagem
+### Deixe sua mensagem:
 
 {{< formulario >}}
 
-Ou se preferir, encaminhe sua mensagem para este endereço:
-
+### Ou se preferir, encaminhe sua mensagem para este endereço:
 [falecomigo@miguelpenteado.com.br](mailto:falecomigo@miguelpenteado.com.br)
